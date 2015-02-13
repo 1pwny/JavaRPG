@@ -1,4 +1,3 @@
-package RPG1;
 import java.util.Random;
 
 public class Player {
