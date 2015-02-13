@@ -1,4 +1,3 @@
-package RPG1;
 public class Dragon {
 	public int HP = 75;
 	public int claws = 25;
